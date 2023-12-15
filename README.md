@@ -10,7 +10,9 @@ Momiage Extending
 
 ## Active Projects
 * [monaxia](https://github.com/monaxia-ap/monaxia) - ActivityPub server implementation
-* [declavatar](https://github.com/kb10uy/declavatar) [modular-declavatar](https://github.com/kb10uy/modular-declavatar) - AnimatorController generation tool for VRChat
+* [declavatar](https://github.com/kb10uy/declavatar) - AnimatorController generation tool for VRChat
+    - [modular-declavatar](https://github.com/kb10uy/modular-declavatar) - UnityEditor extension module with VPM support
+    - [declavatar-doc](https://github.com/kb10uy/declavatar-doc) - Official documentation
 * [MomiageMono](https://github.com/kb10uy/MomiageMono) - Monospaced font based on JetBrains Mono and 源暎モノゴ
 
 ## Legacy / Abandoned Projects
