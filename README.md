@@ -10,11 +10,15 @@ Momiage Extending
 
 ## Active Projects
 * [monaxia](https://github.com/monaxia-ap/monaxia) - ActivityPub server implementation
+* [MomiageMono](https://github.com/kb10uy/MomiageMono) - Monospaced font based on JetBrains Mono and 源暎モノゴ
+
+## Active Projects for VRChat
 * [declavatar](https://github.com/kb10uy/declavatar) - AnimatorController generation tool for VRChat
     - [modular-declavatar](https://github.com/kb10uy/modular-declavatar) - UnityEditor extension module with VPM support
     - [declavatar-attachments](https://github.com/kb10uy/declavatar-attachments) - Additional functionalities
     - [declavatar-doc](https://github.com/kb10uy/declavatar-doc) - Official documentation
-* [MomiageMono](https://github.com/kb10uy/MomiageMono) - Monospaced font based on JetBrains Mono and 源暎モノゴ
+* [kb10uy-zatools](https://github.com/kb10uy/kb10uy-zatools) - Various tools
+* [eye-pointer-installer](https://github.com/kb10uy/eye-pointer-installer) - Automatic [EyePointer](https://booth.pm/ja/items/4742883) installation
 
 ## Legacy / Abandoned Projects
 * [cathedral](https://github.com/kb10uy/cathedral) - Mattermost bot of IIDX songs database
