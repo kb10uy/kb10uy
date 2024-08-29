@@ -13,6 +13,8 @@ Momiage Extending
 * [MomiageMono](https://github.com/kb10uy/MomiageMono) - Monospaced font based on JetBrains Mono and 源暎モノゴ
 
 ## Active Projects for VRChat
+**[VPM Repository Site](https://kb10uy.github.io/vrc-repository/)** / [GitHub Repository](https://github.com/kb10uy/vrc-repository)
+
 * [declavatar](https://github.com/kb10uy/declavatar) - AnimatorController generation tool for VRChat
     - [modular-declavatar](https://github.com/kb10uy/modular-declavatar) - UnityEditor extension module with VPM support
     - [declavatar-attachments](https://github.com/kb10uy/declavatar-attachments) - Additional functionalities
