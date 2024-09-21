@@ -20,7 +20,6 @@ Momiage Extending
     - [declavatar-attachments](https://github.com/kb10uy/declavatar-attachments) - Additional functionalities
     - [declavatar-doc](https://github.com/kb10uy/declavatar-doc) - Official documentation
 * [kb10uy-zatools](https://github.com/kb10uy/kb10uy-zatools) - Various tools
-* [eye-pointer-installer](https://github.com/kb10uy/eye-pointer-installer) - Automatic [EyePointer](https://booth.pm/ja/items/4742883) installation
 * [liltoon-msdfmask](https://github.com/kb10uy/liltoon-msdfmask) - Custom shader for [lilToon](https://github.com/lilxyzw/lilToon) that adds MSDF mask texture support and Alpha 2nd
 
 ## Legacy / Abandoned Projects
