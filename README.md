@@ -9,6 +9,7 @@ Momiage Extending
 </p>
 
 ## Active Projects
+* [llm-natsuki-bot](https://github.com/kb10uy/llm-natsuki-bot) - LLM-based AI chatbot with various features
 * [monaxia](https://github.com/monaxia-ap/monaxia) - ActivityPub server implementation
 * [MomiageMono](https://github.com/kb10uy/MomiageMono) - Monospaced font based on JetBrains Mono and 源暎モノゴ
 
