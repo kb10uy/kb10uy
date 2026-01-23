@@ -15,7 +15,7 @@ Momiage Extending
 
 ## Active Projects for Amature Radio
 * [hamlibptt](https://github.com/kb10uy/hamlibptt) - EXTFSK plugin to enable Hamlib control for MMSSTV/MMTTY/MMVARI
-* [jelgen](https://github.com/kb10uy/hamlibptt) - JARL eLog Generator
+* [jelgen](https://github.com/kb10uy/jelgen) - JARL eLog Generator
 
 ## Active Projects for VRChat
 **[VPM Repository Site](https://kb10uy.github.io/vrc-repository/)** / [GitHub Repository](https://github.com/kb10uy/vrc-repository)
