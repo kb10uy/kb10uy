@@ -13,6 +13,10 @@ Momiage Extending
 * [monaxia](https://github.com/monaxia-ap/monaxia) - ActivityPub server implementation
 * [MomiageMono](https://github.com/kb10uy/MomiageMono) - Monospaced font based on JetBrains Mono and 源暎モノゴ
 
+## Active Projects for Amature Radio
+* [hamlibptt](https://github.com/kb10uy/hamlibptt) - EXTFSK plugin to enable Hamlib control for MMSSTV/MMTTY/MMVARI
+* [jelgen](https://github.com/kb10uy/hamlibptt) - JARL eLog Generator
+
 ## Active Projects for VRChat
 **[VPM Repository Site](https://kb10uy.github.io/vrc-repository/)** / [GitHub Repository](https://github.com/kb10uy/vrc-repository)
 
