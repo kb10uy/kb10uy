@@ -2,7 +2,7 @@
 
 <h1 align="center">kb10uy (KOBAYASHI Yū)</h1>
 <p align="center">
-Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator
+Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator (JL1HIS)
 </p>
 
 ## Active Projects
