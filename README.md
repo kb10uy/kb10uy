@@ -13,7 +13,7 @@ Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator (JL1
 * [monaxia](https://github.com/monaxia-ap/monaxia) - ActivityPub server implementation
 
 ### Amateur Radio
-* [rssstv](https://github.com/kb10uy/rssstv) - SSTV Software based on MMSSTV
+* [grayline](https://github.com/kb10uy/grayline) - Amateur Radio Software Stack in Rust
 * [hamlibptt](https://github.com/kb10uy/hamlibptt) - EXTFSK plugin to enable Hamlib control for MMSSTV/MMTTY/MMVARI
 * [hisbox](https://github.com/kb10uy/hisbox) - Various codes
 
