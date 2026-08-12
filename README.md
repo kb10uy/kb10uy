@@ -20,6 +20,7 @@ Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator (JL1
 ### VRChat
 **[VPM Repository Site](https://kb10uy.github.io/vrc-repository/)** / [GitHub Repository](https://github.com/kb10uy/vrc-repository)
 
+* [vrc-picture-histogram-checker](https://github.com/kb10uy/vrc-picture-histogram-checker) - VR overlay app that shows the histogram of taken pictures
 * [declavatar2](https://github.com/kb10uy/declavatar2) - *Declarative Avatar Asset Composing Tool; Revised*
 * [kb10uy-zatools](https://github.com/kb10uy/kb10uy-zatools) - Various tools
 * [liltoon-msdfmask](https://github.com/kb10uy/liltoon-msdfmask) - Custom shader for [lilToon](https://github.com/lilxyzw/lilToon) that adds MSDF mask texture support and Alpha 2nd
