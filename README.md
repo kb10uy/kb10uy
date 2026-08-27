@@ -20,6 +20,7 @@ Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator (JL1
 ### VRChat
 **[VPM Repository Site](https://kb10uy.github.io/vrc-repository/)** / [GitHub Repository](https://github.com/kb10uy/vrc-repository)
 
+* [vpmrepo-neobuilder](https://github.com/kb10uy/vpmrepo-neobuilder) - "Novel, Excellent, Optimal" VPM Repository Builder
 * [vrc-picture-histogram-checker](https://github.com/kb10uy/vrc-picture-histogram-checker) - VR overlay app that shows the histogram of taken pictures
 * [declavatar2](https://github.com/kb10uy/declavatar2) - *Declarative Avatar Asset Composing Tool; Revised*
 * [kb10uy-zatools](https://github.com/kb10uy/kb10uy-zatools) - Various tools
