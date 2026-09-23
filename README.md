@@ -15,7 +15,7 @@ Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator (JL1
 ### Amateur Radio
 * [grayline](https://github.com/kb10uy/grayline) - Amateur Radio Software Stack in Rust
 * [hamlibptt](https://github.com/kb10uy/hamlibptt) - EXTFSK plugin to enable Hamlib control for MMSSTV/MMTTY/MMVARI
-* [hisbox](https://github.com/kb10uy/hisbox) - Various codes
+* [callfind](https://github.com/kb10uy/callfind) - Amateur radio toolbox for finding entities
 
 ### VRChat
 **[VPM Repository Site](https://kb10uy.github.io/vrc-repository/)** / [GitHub Repository](https://github.com/kb10uy/vrc-repository)
