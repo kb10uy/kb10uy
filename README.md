@@ -21,15 +21,12 @@ Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator (JL1
 ### VRChat
 **[VPM Repository Site](https://kb10uy.github.io/vrc-repository/)** / [GitHub Repository](https://github.com/kb10uy/vrc-repository)
 
+* [kb10uy-zatools](https://github.com/kb10uy/kb10uy-zatools) - Various tools
+* [declavatar2](https://github.com/kb10uy/declavatar2) - Declarative Avatar Asset Composing Tool; *Revised*
+    - [declavatar2-vrchat](https://github.com/kb10uy/declavatar2-vrchat) - Unity extension for VRChat avatars
+* [liltoon-msdfmask](https://github.com/kb10uy/liltoon-msdfmask) - Custom shader for [lilToon](https://github.com/lilxyzw/lilToon) that adds MSDF mask texture support and Alpha 2nd
 * [vpmrepo-neobuilder](https://github.com/kb10uy/vpmrepo-neobuilder) - "Novel, Excellent, Optimal" VPM Repository Builder
 * [vrc-picture-histogram-checker](https://github.com/kb10uy/vrc-picture-histogram-checker) - VR overlay app that shows the histogram of taken pictures
-* [declavatar2](https://github.com/kb10uy/declavatar2) - *Declarative Avatar Asset Composing Tool; Revised*
-* [kb10uy-zatools](https://github.com/kb10uy/kb10uy-zatools) - Various tools
-* [liltoon-msdfmask](https://github.com/kb10uy/liltoon-msdfmask) - Custom shader for [lilToon](https://github.com/lilxyzw/lilToon) that adds MSDF mask texture support and Alpha 2nd
-* [declavatar](https://github.com/kb10uy/declavatar) - AnimatorController generation tool for VRChat
-    - [modular-declavatar](https://github.com/kb10uy/modular-declavatar) - UnityEditor extension module with VPM support
-    - [declavatar-attachments](https://github.com/kb10uy/declavatar-attachments) - Additional functionalities
-    - [declavatar-doc](https://github.com/kb10uy/declavatar-doc) - Official documentation
 
 ### Miscellaneous 
 * [exup](https://github.com/kb10uy/exup) - Unity package extraction
@@ -37,6 +34,10 @@ Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator (JL1
 * [random-regex-strgen](https://github.com/kb10uy/random-regex-strgen) - Generates random strings that matches specified regex
 
 ## Legacy / Abandoned Projects
+* [declavatar](https://github.com/kb10uy/declavatar) - AnimatorController generation tool for VRChat
+    - [modular-declavatar](https://github.com/kb10uy/modular-declavatar) - UnityEditor extension module with VPM support
+    - [declavatar-attachments](https://github.com/kb10uy/declavatar-attachments) - Additional functionalities
+    - [declavatar-doc](https://github.com/kb10uy/declavatar-doc) - Official documentation
 * [cathedral](https://github.com/kb10uy/cathedral) - Mattermost bot of IIDX songs database
 * [sk2aac](https://github.com/kb10uy/sk2aac) - AnimatorController generation tool (basic concept of declavatar)
 * [adwapach](https://github.com/kb10uy/adwapach) - Advanced Wallpaper Changer
