@@ -16,6 +16,7 @@ Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator (JL1
 * [grayline](https://github.com/kb10uy/grayline) - Amateur Radio Software Stack in Rust
 * [qso-tools](https://github.com/kb10uy/qso-tools) - kb10uy's small toolbox to manage QSOs and QSL cards
 * [wavelog-tools](https://github.com/kb10uy/wavelog-tools) - Tools using Wavelog REST API v2
+* [speech-to-qso](https://github.com/kb10uy/speech-to-qso) - A push-to-talk voice input web app for logging QSOs
 * [hamlibptt](https://github.com/kb10uy/hamlibptt) - EXTFSK plugin to enable Hamlib control for MMSSTV/MMTTY/MMVARI
 * [callfind](https://github.com/kb10uy/callfind) - Amateur radio toolbox for finding entities
 * [adif-reader](https://github.com/kb10uy/adif-reader) - A library for reading ADIF files in Rust
