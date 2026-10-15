@@ -32,11 +32,11 @@ Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator (JL1
 * [vrc-picture-histogram-checker](https://github.com/kb10uy/vrc-picture-histogram-checker) - VR overlay app that shows the histogram of taken pictures
 
 ### Miscellaneous 
-* [exup](https://github.com/kb10uy/exup) - Unity package extraction
 * [phorcys](https://github.com/kb10uy/phorcys) - OpenSoundControl protocol library for Rust
-* [random-regex-strgen](https://github.com/kb10uy/random-regex-strgen) - Generates random strings that matches specified regex
 
 ## Legacy / Abandoned Projects
+* [random-regex-strgen](https://github.com/kb10uy/random-regex-strgen) - Generates random strings that matches specified regex
+* [exup](https://github.com/kb10uy/exup) - Unity package extraction
 * [declavatar](https://github.com/kb10uy/declavatar) - AnimatorController generation tool for VRChat
     - [modular-declavatar](https://github.com/kb10uy/modular-declavatar) - UnityEditor extension module with VPM support
     - [declavatar-attachments](https://github.com/kb10uy/declavatar-attachments) - Additional functionalities
