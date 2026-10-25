@@ -13,13 +13,13 @@ Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator (JL1
 * [monaxia](https://github.com/monaxia-ap/monaxia) - ActivityPub server implementation
 
 ### Amateur Radio
+* [jl1his-logger](https://github.com/kb10uy/jl1his-logger) - The QSO log of record for JL1HIS: one server, one SQLite database and a same-origin web app
 * [grayline](https://github.com/kb10uy/grayline) - Amateur Radio Software Stack in Rust
 * [qso-tools](https://github.com/kb10uy/qso-tools) - kb10uy's small toolbox to manage QSOs and QSL cards
 * [wavelog-tools](https://github.com/kb10uy/wavelog-tools) - Tools using Wavelog REST API v2
-* [speech-to-qso](https://github.com/kb10uy/speech-to-qso) - A push-to-talk voice input web app for logging QSOs
-* [hamlibptt](https://github.com/kb10uy/hamlibptt) - EXTFSK plugin to enable Hamlib control for MMSSTV/MMTTY/MMVARI
 * [callfind](https://github.com/kb10uy/callfind) - Amateur radio toolbox for finding entities
 * [adif-reader](https://github.com/kb10uy/adif-reader) - A library for reading ADIF files in Rust
+* [hamlibptt](https://github.com/kb10uy/hamlibptt) - EXTFSK plugin to enable Hamlib control for MMSSTV/MMTTY/MMVARI
 
 ### VRChat
 **[VPM Repository Site](https://kb10uy.github.io/vrc-repository/)** / [GitHub Repository](https://github.com/kb10uy/vrc-repository)
@@ -35,6 +35,7 @@ Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator (JL1
 * [phorcys](https://github.com/kb10uy/phorcys) - OpenSoundControl protocol library for Rust
 
 ## Legacy / Abandoned Projects
+* [speech-to-qso](https://github.com/kb10uy/speech-to-qso) - A push-to-talk voice input web app for logging QSOs
 * [random-regex-strgen](https://github.com/kb10uy/random-regex-strgen) - Generates random strings that matches specified regex
 * [exup](https://github.com/kb10uy/exup) - Unity package extraction
 * [declavatar](https://github.com/kb10uy/declavatar) - AnimatorController generation tool for VRChat
