@@ -18,7 +18,7 @@ Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator (JL1
 * [qso-tools](https://github.com/kb10uy/qso-tools) - kb10uy's small toolbox to manage QSOs and QSL cards
 * [wavelog-tools](https://github.com/kb10uy/wavelog-tools) - Tools using Wavelog REST API v2
 * [callfind](https://github.com/kb10uy/callfind) - Amateur radio toolbox for finding entities
-* [adif-reader](https://github.com/kb10uy/adif-reader) - A library for reading ADIF files in Rust
+* [adif-manip](https://github.com/kb10uy/adif-manip) - A library for manipulating ADIF files in Rust
 * [hamlibptt](https://github.com/kb10uy/hamlibptt) - EXTFSK plugin to enable Hamlib control for MMSSTV/MMTTY/MMVARI
 
 ### VRChat
