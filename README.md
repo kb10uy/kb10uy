@@ -31,6 +31,10 @@ Software Engineer (mainly Web backend) / Rustacean / Amateur Radio Operator (JL1
 * [vpmrepo-neobuilder](https://github.com/kb10uy/vpmrepo-neobuilder) - "Novel, Excellent, Optimal" VPM Repository Builder
 * [vrc-picture-histogram-checker](https://github.com/kb10uy/vrc-picture-histogram-checker) - VR overlay app that shows the histogram of taken pictures
 
+### Hardware / Electronics
+* [jl1his-terminal-unit](https://github.com/kb10uy/picodds) - RTTY terminal unit (PTT/FSK output and audio input) built on RP2350
+* [picodds](https://github.com/kb10uy/picodds) - Cheap DDS (function generator) built on RP2040 and MCP4922
+
 ### Miscellaneous 
 * [phorcys](https://github.com/kb10uy/phorcys) - OpenSoundControl protocol library for Rust
 
